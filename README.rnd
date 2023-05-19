@@ -1,0 +1,11 @@
+Dominic Brugioni
+2402157
+
+Description:
+This program implements 5 different sorting methods (BubbleSort, InsertionSort, MergeSort, QuickSort, and SelectionSort) to sort a collection of doubles that are read in from an input file.
+At runtime, the file is read into an array whose size is dictated by the first line of the file.
+The program then implements each sorting method, keeping track of the start and end time of each.
+
+References:
+Zybooks
+Used a random number generator to create the testInput.txt file
